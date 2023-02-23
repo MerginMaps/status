@@ -7,12 +7,9 @@ sites:
   - name: Translated Website
     url: https://fr.merginmaps.com
   - name: Dashboard and API
-    url: https://app.merginmaps.com/alive
-    method: POST
+    url: https://app.merginmaps.com/ping
   - name: Docs
     url: https://www.merginmaps.com/docs
-  - name: Support Site
-    url: https://support.merginmaps.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -20,14 +17,24 @@ status-website:
   cname: status.merginmaps.com
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Mergin Maps Status
-  introTitle: "**Mergin Maps** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: System Status
+  introTitle: "**Mergin Maps** ecosystem uptime monitor and status page"
+  introMessage: "For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [Twitter](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents"
+  customBodyHtml: "<div>
+      Issues with billing? Check status of these services:
+      <ul>
+        <li><a href="https://status.stripe.com">Stripe</a></li>
+        <li><a href="https://statuspage.freshping.io/13498-Vatstack">Vatstack</a></li>
+        <li><a href="https://status.rapidapi.com">RapidAPI</a></li>
+        </ul>
+  </div>"
   navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Use Slack Chat
+      href: https://www.merginmaps.com/community/join
+    - title: Contact Support
+      href: https://support.merginmaps.com/support/tickets/new
+    - title: See Twitter
+      href: https://twitter.com/MerginMaps
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
