@@ -2,13 +2,18 @@ owner: MerginMaps
 repo: status
 
 sites:
-  - name: Mergin Maps Main Website
+  - name: Main Website
     url: https://merginmaps.com
-  - name: Mergin Maps App
-    url: https://app.merginmaps.com/ping
-  - name: Mergin Maps Docs
+  - name: Translated Website
+    url: https://fr.merginmaps.com
+  - name: Dashboard and API
+    url: https://app.merginmaps.com/alive
+    method: POST
+  - name: Docs
     url: https://www.merginmaps.com/docs
-
+  - name: Support Site
+    url: https://support.merginmaps.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
