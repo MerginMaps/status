@@ -10,13 +10,10 @@ sites:
     url: https://app.merginmaps.com/ping
   - name: Docs
     url: https://www.merginmaps.com/docs
-    
+
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.merginmaps.com
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/merginmaps/status/master/assets/MM_logo_EMBLEM_COLOR_POZ.svg
   name: System Status
   introTitle: "**Mergin Maps** ecosystem uptime monitor and status page"
   introMessage: "For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [Twitter](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents"
@@ -29,5 +26,3 @@ status-website:
     - title: See Twitter
       href: https://twitter.com/MerginMaps
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
