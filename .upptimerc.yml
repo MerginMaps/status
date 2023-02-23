@@ -20,14 +20,7 @@ status-website:
   name: System Status
   introTitle: "**Mergin Maps** ecosystem uptime monitor and status page"
   introMessage: "For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [Twitter](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents"
-  customBodyHtml: "<div>
-      Issues with billing? Check status of these services:
-      <ul>
-        <li><a href="https://status.stripe.com">Stripe</a></li>
-        <li><a href="https://statuspage.freshping.io/13498-Vatstack">Vatstack</a></li>
-        <li><a href="https://status.rapidapi.com">RapidAPI</a></li>
-        </ul>
-  </div>"
+  customBodyHtml: "<div>Issues with billing? Check status of these services:<ul><li><a href="https://status.stripe.com">Stripe</a></li><li><a href="https://statuspage.freshping.io/13498-Vatstack">Vatstack</a></li><li><a href="https://status.rapidapi.com">RapidAPI</a></li></ul></div>"
   navbar:
     - title: Use Slack Chat
       href: https://www.merginmaps.com/community/join
