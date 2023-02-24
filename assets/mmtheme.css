@@ -1,3 +1,7 @@
+* {
+    font-family: Inter!important
+}
+
 /* based on https://github.com/upptime/status-page/blob/master/static/themes/light.css */
 :root {
     --body-background-color: #ffffff;
@@ -25,4 +29,3 @@
     --graph-opacity: 1;
     --graph-filter: none;
 }
-
