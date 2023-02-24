@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 736,
-    "timeDay": 736,
-    "timeWeek": 736,
-    "timeMonth": 736,
-    "timeYear": 736,
+    "time": 767,
+    "timeDay": 767,
+    "timeWeek": 767,
+    "timeMonth": 767,
+    "timeYear": 767,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1815,
-    "timeDay": 1815,
-    "timeWeek": 1815,
-    "timeMonth": 1815,
-    "timeYear": 1815,
+    "time": 1788,
+    "timeDay": 1788,
+    "timeWeek": 1788,
+    "timeMonth": 1788,
+    "timeYear": 1788,
     "dailyMinutesDown": {}
   },
   {
@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.merginmaps.com.ico",
     "slug": "dashboard-and-api",
     "status": "up",
-    "uptime": "37.57%",
-    "uptimeDay": "37.57%",
-    "uptimeWeek": "37.57%",
-    "uptimeMonth": "37.57%",
-    "uptimeYear": "37.57%",
-    "time": 476,
-    "timeDay": 476,
-    "timeWeek": 476,
-    "timeMonth": 476,
-    "timeYear": 476,
-    "dailyMinutesDown": {
-      "2023-02-23": 36
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 498,
+    "timeDay": 498,
+    "timeWeek": 498,
+    "timeMonth": 498,
+    "timeYear": 498,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Docs",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 971,
-    "timeDay": 971,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 971,
+    "time": 1020,
+    "timeDay": 1020,
+    "timeWeek": 1020,
+    "timeMonth": 1020,
+    "timeYear": 1020,
     "dailyMinutesDown": {}
   }
 ]
