@@ -3,13 +3,13 @@ repo: status
 
 sites:
   - name: Main Website
-    url: https://merginmaps.com
+    url: https://merginmaps.com/?utm_source=mmsystemstatus
   - name: Translated Website
-    url: https://fr.merginmaps.com
+    url: https://fr.merginmaps.com/?utm_source=mmsystemstatus
   - name: Dashboard and API
-    url: https://app.merginmaps.com/ping
+    url: https://app.merginmaps.com/ping?utm_source=mmsystemstatus
   - name: Docs
-    url: https://www.merginmaps.com/docs
+    url: https://www.merginmaps.com/docs/?utm_source=mmsystemstatus
 
 status-website:
   cname: status.merginmaps.com
