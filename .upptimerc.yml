@@ -18,7 +18,9 @@ status-website:
   favicon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.ico
   introTitle: "**Mergin Maps** ecosystem system status page"
   introMessage: For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [Twitter](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents.
-  themeUrl: https://raw.githubusercontent.com/merginmaps/status/master/assets/mmtheme.css
+  theme: light
+  customHeadHtml: "<link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>"
+  css: "* {font-family: Inter!important;} :root {--body-background-color: #ffffff; --nav-background-color: #ffffff; }"
   navbar:
     - title: Use Slack Chat
       href: https://www.merginmaps.com/community/join
