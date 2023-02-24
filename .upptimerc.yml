@@ -15,9 +15,10 @@ status-website:
   cname: status.merginmaps.com
   logoUrl: https://raw.githubusercontent.com/merginmaps/status/master/assets/MM_logo_EMBLEM_COLOR_POZ.svg
   name: Mergin Maps System Status
+  favicon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.ico
   introTitle: "**Mergin Maps** ecosystem system status page"
   introMessage: For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [Twitter](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents.
-  themeUrl: https://status.merginmaps.com/mmtheme.css
+  themeUrl: https://raw.githubusercontent.com/merginmaps/status/master/assets/mmtheme.css
   navbar:
     - title: Use Slack Chat
       href: https://www.merginmaps.com/community/join

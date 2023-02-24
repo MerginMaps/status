@@ -1,8 +1,26 @@
+/* bug - need to serve from githubraw https://github.com/upptime/upptime/issues/468 */
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    src: https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-regular.eot;
+    src: local(""),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-regular.eot?#iefix format("embedded-opentype"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-regular.woff2 format("woff2"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-regular.woff format("woff"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-regular.ttf format("truetype"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-regular.svg#Inter format("svg")
+}
+
+@font-face {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 700;
+    src: https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-700.eot;
+    src: local(""),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-700.eot?#iefix format("embedded-opentype"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-700.woff2 format("woff2"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-700.woff format("woff"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-700.ttf format("truetype"),https:/raw.githubusercontent.com/merginmaps/status/master/assets/inter-v8-latin-ext_latin-700.svg#Inter format("svg")
+}
+
 * {
     font-family: Inter!important
 }
 
-/* based on https://github.com/upptime/status-page/blob/master/static/themes/light.css */
+/* based on https:/github.com/upptime/status-page/blob/master/static/themes/light.css */
 :root {
     --body-background-color: #ffffff;
     --body-text-color: #000000;
