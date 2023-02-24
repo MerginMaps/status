@@ -17,6 +17,8 @@ status-website:
   name: Mergin Maps System Status
   introTitle: "**Mergin Maps** ecosystem system status page"
   introMessage: For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [Twitter](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents.
+  themeUrl: https://status.merginmaps.com/mmtheme.css
+  css: "body { font-family: Inter,sans-serif !important; }"
   navbar:
     - title: Use Slack Chat
       href: https://www.merginmaps.com/community/join
@@ -24,4 +26,3 @@ status-website:
       href: https://support.merginmaps.com/support/tickets/new
     - title: See Twitter
       href: https://twitter.com/MerginMaps
-
