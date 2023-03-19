@@ -22,18 +22,20 @@
     "url": "https://fr.merginmaps.com/?utm_source=mmsystemstatus",
     "icon": "https://icons.duckduckgo.com/ip3/fr.merginmaps.com.ico",
     "slug": "translated-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1580,
-    "timeDay": 1751,
-    "timeWeek": 1540,
-    "timeMonth": 1580,
-    "timeYear": 1580,
-    "dailyMinutesDown": {}
+    "time": 1680,
+    "timeDay": 3403,
+    "timeWeek": 1979,
+    "timeMonth": 1680,
+    "timeYear": 1680,
+    "dailyMinutesDown": {
+      "2023-03-19": 0
+    }
   },
   {
     "name": "Dashboard and API",
