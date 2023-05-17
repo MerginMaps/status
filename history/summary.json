@@ -4,18 +4,20 @@
     "url": "https://merginmaps.com/?utm_source=mmsystemstatus",
     "icon": "https://icons.duckduckgo.com/ip3/merginmaps.com.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 510,
-    "timeWeek": 606,
-    "timeMonth": 636,
-    "timeYear": 696,
-    "dailyMinutesDown": {}
+    "time": 733,
+    "timeDay": 2389,
+    "timeWeek": 1063,
+    "timeMonth": 753,
+    "timeYear": 733,
+    "dailyMinutesDown": {
+      "2023-05-17": 1
+    }
   },
   {
     "name": "Translated Website",
