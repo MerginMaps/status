@@ -5,9 +5,9 @@
     --card-background-color: #ffffff;
     --nav-background-color: #ffffff;
     
-    --nav-border-bottom-color: #00a884;
-    --nav-current-border-bottom-color: #00a884;
-    --up-border-left-color: #00a884;
+    --nav-border-bottom-color: #004C45;
+    --nav-current-border-bottom-color: #004C45;
+    --up-border-left-color: #004C45;
     
     --card-border-color: #d8e8e4;
     --down-border-left-color: #e52321;
@@ -15,7 +15,7 @@
     --degraded-border-left-color: #f4971a;
     
     --tag-color: #ffffff;
-    --tag-up-background-color: #00a884;
+    --tag-up-background-color: #004C45;
     --tag-down-background-color: #e52321;
     --tag-degraded-background-color: #f4971a;
     --change-background-color: #f4971a;
