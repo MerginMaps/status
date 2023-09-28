@@ -4,12 +4,16 @@ repo: status
 sites:
   - name: Main Website
     url: https://merginmaps.com/?utm_source=mmsystemstatus
+    icon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg
   - name: Translated Website
     url: https://fr.merginmaps.com/?utm_source=mmsystemstatus
+    icon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg
   - name: Dashboard and API
     url: https://app.merginmaps.com/ping?utm_source=mmsystemstatus
+    icon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg
   - name: Docs
     url: https://www.merginmaps.com/docs/?utm_source=mmsystemstatus
+    icon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg
 
 status-website:
   cname: status.merginmaps.com
