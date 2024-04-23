@@ -90,9 +90,9 @@
     "url": "https://www.merginmaps.com/rss/qgis?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "rss-feed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -101,6 +101,8 @@
     "timeWeek": 2590,
     "timeMonth": 2706,
     "timeYear": 2702,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
   }
 ]
