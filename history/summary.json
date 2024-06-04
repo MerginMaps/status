@@ -10,17 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 856,
-    "timeDay": 567,
-    "timeWeek": 722,
-    "timeMonth": 637,
-    "timeYear": 880,
+    "time": 855,
+    "timeDay": 523,
+    "timeWeek": 711,
+    "timeMonth": 636,
+    "timeYear": 879,
     "dailyMinutesDown": {
       "2023-11-08": 18,
       "2023-10-17": 19,
       "2023-07-27": 24,
-      "2023-06-06": 373,
-      "2023-06-05": 365
+      "2023-06-06": 373
     }
   },
   {
@@ -34,17 +33,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1547,
-    "timeDay": 847,
-    "timeWeek": 1217,
-    "timeMonth": 1106,
-    "timeYear": 1413,
+    "time": 1546,
+    "timeDay": 1018,
+    "timeWeek": 1211,
+    "timeMonth": 1101,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2023-11-08": 18,
       "2023-10-17": 19,
       "2023-07-27": 24,
-      "2023-06-06": 373,
-      "2023-06-05": 363
+      "2023-06-06": 373
     }
   },
   {
@@ -58,10 +56,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 362,
-    "timeWeek": 491,
-    "timeMonth": 425,
+    "time": 463,
+    "timeDay": 356,
+    "timeWeek": 483,
+    "timeMonth": 426,
     "timeYear": 466,
     "dailyMinutesDown": {}
   },
@@ -77,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 591,
-    "timeDay": 538,
-    "timeWeek": 635,
-    "timeMonth": 565,
+    "timeDay": 414,
+    "timeWeek": 613,
+    "timeMonth": 563,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2023-07-27": 24
@@ -96,11 +94,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 2942,
-    "timeDay": 5737,
-    "timeWeek": 4048,
-    "timeMonth": 3419,
-    "timeYear": 2942,
+    "time": 2955,
+    "timeDay": 4244,
+    "timeWeek": 4183,
+    "timeMonth": 3474,
+    "timeYear": 2955,
     "dailyMinutesDown": {
       "2024-04-23": 45
     }
