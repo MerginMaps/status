@@ -24,7 +24,7 @@ status-website:
   name: Mergin Maps System Status
   favicon: https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg
   introTitle: "**Mergin Maps** ecosystem system status page"
-  introMessage: For more information check community [Slack chat](https://www.merginmaps.com/community/join) and [X (formerly Twitter)](https://twitter.com/MerginMaps). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents.
+  introMessage: For more information check our community [Slack chat](https://www.merginmaps.com/community/join). You can contact [Support](https://support.merginmaps.com/support/tickets/new) for specific issues not already reported as incidents.
   theme: light
   customHeadHtml: "<link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>"
   css: "* {font-family: Inter!important;} :root {--body-background-color: #ffffff; --nav-background-color: #ffffff; --nav-border-bottom-color: #004C45; --nav-current-border-bottom-color: #004C45; --up-border-left-color: #004C45; }"
@@ -33,5 +33,3 @@ status-website:
       href: https://www.merginmaps.com/community/join
     - title: Contact Support
       href: https://support.merginmaps.com/support/tickets/new
-    - title: See X (formerly Twitter)
-      href: https://twitter.com/MerginMaps
