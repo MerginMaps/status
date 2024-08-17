@@ -1,7 +1,7 @@
 url: https://www.merginmaps.com/rss/qgis?utm_source=mmsystemstatus
-status: down
-code: 503
-responseTime: 90
-lastUpdated: 2024-08-17T00:32:20.617Z
+status: up
+code: 200
+responseTime: 3650
+lastUpdated: 2024-08-17T00:53:47.204Z
 startTime: 2024-02-29T14:50:52.976Z
 generator: Upptime <https://github.com/upptime/upptime>
