@@ -49,19 +49,19 @@
     "url": "https://app.merginmaps.com/ping?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "dashboard-and-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 378,
-    "timeWeek": 463,
-    "timeMonth": 454,
-    "timeYear": 473,
+    "time": 469,
+    "timeDay": 510,
+    "timeWeek": 485,
+    "timeMonth": 459,
+    "timeYear": 474,
     "dailyMinutesDown": {
-      "2024-09-09": 0
+      "2024-09-09": 5
     }
   },
   {
