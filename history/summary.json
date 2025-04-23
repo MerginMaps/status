@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 842,
-    "timeDay": 845,
-    "timeWeek": 743,
-    "timeMonth": 706,
-    "timeYear": 790,
+    "time": 843,
+    "timeDay": 926,
+    "timeWeek": 747,
+    "timeMonth": 705,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-08-17": 21
     }
@@ -25,15 +25,15 @@
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "translated-website",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1106,
-    "timeDay": 1196,
-    "timeWeek": 1059,
-    "timeMonth": 952,
+    "timeDay": 1043,
+    "timeWeek": 1054,
+    "timeMonth": 951,
     "timeYear": 1105,
     "dailyMinutesDown": {
       "2024-09-16": 18,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 541,
-    "timeWeek": 500,
-    "timeMonth": 472,
-    "timeYear": 466,
+    "time": 474,
+    "timeDay": 728,
+    "timeWeek": 518,
+    "timeMonth": 475,
+    "timeYear": 467,
     "dailyMinutesDown": {}
   },
   {
@@ -71,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 585,
-    "timeDay": 761,
-    "timeWeek": 684,
-    "timeMonth": 619,
-    "timeYear": 588,
+    "timeDay": 809,
+    "timeWeek": 670,
+    "timeMonth": 620,
+    "timeYear": 589,
     "dailyMinutesDown": {
       "2024-08-17": 21,
       "2024-08-06": 19
@@ -91,17 +91,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 3388,
-    "timeDay": 4033,
-    "timeWeek": 3375,
-    "timeMonth": 3406,
-    "timeYear": 3485,
+    "time": 3389,
+    "timeDay": 3655,
+    "timeWeek": 3467,
+    "timeMonth": 3426,
+    "timeYear": 3489,
     "dailyMinutesDown": {
       "2025-03-17": 20,
       "2025-02-02": 45,
       "2024-08-17": 21,
-      "2024-08-06": 19,
-      "2024-04-23": 45
+      "2024-08-06": 19
     }
   }
 ]
