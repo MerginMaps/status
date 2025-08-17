@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 796,
-    "timeDay": 670,
-    "timeWeek": 645,
-    "timeMonth": 695,
+    "timeDay": 544,
+    "timeWeek": 635,
+    "timeMonth": 685,
     "timeYear": 763,
     "dailyMinutesDown": {
-      "2025-06-03": 279,
-      "2024-08-17": 21
+      "2025-06-03": 279
     }
   },
   {
@@ -31,15 +30,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1099,
-    "timeDay": 1118,
-    "timeWeek": 1168,
-    "timeMonth": 1088,
-    "timeYear": 1076,
+    "time": 1098,
+    "timeDay": 766,
+    "timeWeek": 1138,
+    "timeMonth": 1070,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2025-06-03": 279,
-      "2024-09-16": 18,
-      "2024-08-17": 21
+      "2024-09-16": 18
     }
   },
   {
@@ -54,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 472,
-    "timeDay": 427,
-    "timeWeek": 430,
-    "timeMonth": 480,
+    "timeDay": 448,
+    "timeWeek": 441,
+    "timeMonth": 476,
     "timeYear": 474,
     "dailyMinutesDown": {}
   },
@@ -72,13 +70,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 595,
-    "timeDay": 513,
-    "timeWeek": 508,
-    "timeMonth": 583,
+    "timeDay": 523,
+    "timeWeek": 527,
+    "timeMonth": 576,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2024-08-17": 21
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "RSS Feed",
@@ -91,15 +87,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 3139,
-    "timeDay": 2250,
-    "timeWeek": 1920,
-    "timeMonth": 1944,
-    "timeYear": 3040,
+    "time": 3137,
+    "timeDay": 1560,
+    "timeWeek": 1835,
+    "timeMonth": 1940,
+    "timeYear": 3035,
     "dailyMinutesDown": {
       "2025-03-17": 20,
-      "2025-02-02": 45,
-      "2024-08-17": 21
+      "2025-02-02": 45
     }
   }
 ]
