@@ -1,7 +1,7 @@
 url: https://fr.merginmaps.com/?utm_source=mmsystemstatus
-status: up
-code: 200
-responseTime: 1315
-lastUpdated: 2025-10-28T10:02:03.690Z
+status: down
+code: 502
+responseTime: 900
+lastUpdated: 2025-10-28T10:49:50.324Z
 startTime: 2023-02-23T14:57:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
