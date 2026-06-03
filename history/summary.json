@@ -4,11 +4,11 @@
     "url": "https://merginmaps.com/?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.94%",
     "time": 748,
     "timeDay": 768,
@@ -18,7 +18,8 @@
     "dailyMinutesDown": {
       "2025-10-28": 11,
       "2025-11-03": 9,
-      "2025-12-05": 24
+      "2025-12-05": 24,
+      "2026-06-03": 15
     }
   },
   {
@@ -48,29 +49,31 @@
     "url": "https://app.merginmaps.com/ping?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "dashboard-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 496,
     "timeDay": 506,
     "timeWeek": 465,
     "timeMonth": 466,
     "timeYear": 501,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-03": 10
+    }
   },
   {
     "name": "Docs",
     "url": "https://www.merginmaps.com/docs/?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 638,
     "timeDay": 1267,
@@ -78,7 +81,8 @@
     "timeMonth": 1050,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2025-10-28": 12
+      "2025-10-28": 12,
+      "2026-06-03": 5
     }
   },
   {
@@ -86,9 +90,9 @@
     "url": "https://www.merginmaps.com/rss/qgis?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "rss-feed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,7 +102,8 @@
     "timeMonth": 3091,
     "timeYear": 2065,
     "dailyMinutesDown": {
-      "2025-10-28": 12
+      "2025-10-28": 12,
+      "2026-06-03": 0
     }
   }
 ]
