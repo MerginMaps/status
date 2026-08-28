@@ -4,16 +4,16 @@
     "url": "https://merginmaps.com/?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "main-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
-    "time": 751,
-    "timeDay": 636,
-    "timeWeek": 735,
-    "timeMonth": 750,
+    "time": 752,
+    "timeDay": 675,
+    "timeWeek": 741,
+    "timeMonth": 751,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-10-28": 11,
@@ -23,7 +23,7 @@
       "2026-06-11": 44,
       "2026-07-25": 28,
       "2026-08-01": 15,
-      "2026-08-28": 0
+      "2026-08-28": 11
     }
   },
   {
