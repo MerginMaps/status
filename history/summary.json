@@ -53,22 +53,23 @@
     "url": "https://app.merginmaps.com/ping?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "dashboard-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 492,
-    "timeDay": 311,
-    "timeWeek": 427,
-    "timeMonth": 429,
+    "timeDay": 313,
+    "timeWeek": 413,
+    "timeMonth": 426,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2026-06-03": 162,
       "2026-06-11": 39,
       "2026-07-25": 23,
-      "2026-08-01": 10
+      "2026-08-01": 10,
+      "2026-08-31": 0
     }
   },
   {
