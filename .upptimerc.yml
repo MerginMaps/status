@@ -29,7 +29,7 @@ status-website:
   customHeadHtml: "<link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>"
   css: "* {font-family: Inter!important;} :root {--body-background-color: #ffffff; --nav-background-color: #ffffff; --nav-border-bottom-color: #004C45; --nav-current-border-bottom-color: #004C45; --up-border-left-color: #004C45; }"
   navbar:
-    - title: Use our community
+    - title: Go to our community
       href: https://community.merginmaps.com
     - title: Contact Support
       href: https://support.merginmaps.com/support/tickets/new
