@@ -13,7 +13,7 @@
     "time": 737,
     "timeDay": 761,
     "timeWeek": 775,
-    "timeMonth": 730,
+    "timeMonth": 731,
     "timeYear": 739,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 1078,
     "timeDay": 1113,
     "timeWeek": 1063,
-    "timeMonth": 989,
+    "timeMonth": 984,
     "timeYear": 1065,
     "dailyMinutesDown": {}
   },
@@ -40,15 +40,15 @@
     "url": "https://app.merginmaps.com/ping?utm_source=mmsystemstatus",
     "icon": "https://raw.githubusercontent.com/merginmaps/status/master/assets/favicon.svg",
     "slug": "dashboard-and-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 391,
-    "timeWeek": 444,
+    "timeDay": 393,
+    "timeWeek": 438,
     "timeMonth": 394,
     "timeYear": 484,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "time": 764,
     "timeDay": 1119,
     "timeWeek": 1129,
-    "timeMonth": 1077,
+    "timeMonth": 1076,
     "timeYear": 814,
     "dailyMinutesDown": {}
   },
@@ -85,7 +85,7 @@
     "time": 2314,
     "timeDay": 3308,
     "timeWeek": 2966,
-    "timeMonth": 2907,
+    "timeMonth": 2903,
     "timeYear": 2460,
     "dailyMinutesDown": {}
   }
